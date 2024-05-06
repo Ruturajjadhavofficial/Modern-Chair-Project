@@ -79,22 +79,22 @@ p {
 
 label.color-1{
     margin-left: 500px;
-    background-image: url("color1.jpg");
+    background-image: url("color1.JPG");
 }
 label.color-2{
-    background-image: url("color2.jpg");
+    background-image: url("color2.JPG");
 }
 label.color-3{
-    background-image: url("color3.jpg");
+    background-image: url("color3.JPG");
 }
 label.color-4{
-    background-image: url("color4.jpg");
+    background-image: url("color4.JPG");
 }
 label.color-5{
-    background-image: url("color5.jpg");
+    background-image: url("color5.JPG");
 }
 label.color-6{
-    background-image: url("color6.jpg");
+    background-image: url("color6.JPG");
 }
 .img-wrap{
     position: absolute;
